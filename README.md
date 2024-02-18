@@ -1,4 +1,5 @@
 ## 💡 About septum128
+
 Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 
 ### 🐑 Profile
@@ -20,13 +21,13 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 - Call me "せぷたむ" or Septum
 - 👀 I’m interested in JavaScript runtime Deno.
 - 🌱 I’m currently learning programming using TypeScript for Deno.
-- 📫 How to reach me ... Twitter@septum128 DM
 
 ## 📈 Status
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/septum128/posts.svg)](https://qiita.com/septum128)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/septum128/contributions.svg)](https://qiita.com/septum128)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/septum128/followers.svg)](https://qiita.com/septum128)
 
 ## 📩 Contact
 
-Twitter - **[@septum128](https://twitter.com/septum128)**
+X(Twitter) - **[@septum128](https://twitter.com/septum128)**
