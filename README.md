@@ -28,6 +28,8 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/septum128/contributions.svg)](https://qiita.com/septum128)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/septum128/followers.svg)](https://qiita.com/septum128)
 
+[![Septum's GitHub stats](https://github-readme-stats-septum128-ze7p3n6d.vercel.app/api?username=septum128&theme=cobalt)](https://github.com/septum128/github-readme-stats)
+
 ## 📩 Contact
 
 X(Twitter) - **[@septum128](https://twitter.com/septum128)**
