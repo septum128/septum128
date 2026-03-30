@@ -6,7 +6,7 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 <div align="center">
   <img src="icon.png" height="320px" width="auto" />
   <br>
-  <img src="https://img.shields.io/badge/age-34-green" />
+  <img src="https://img.shields.io/badge/age-35-green" />
   <img src="https://img.shields.io/badge/language-Japanese-brightgreen" />
   <img src="https://img.shields.io/badge/favorite-TypeScript-blue" />
   <img src="https://img.shields.io/badge/Study-Deno-yellowgreen" />
@@ -28,7 +28,10 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/septum128/contributions.svg)](https://qiita.com/septum128)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/septum128/followers.svg)](https://qiita.com/septum128)
 
-[![Septum's GitHub stats](https://github-readme-stats-septum128-ze7p3n6d.vercel.app/api?username=septum128&theme=cobalt)](https://github.com/septum128/github-readme-stats)
+<div align="left">
+  <img alt="septum128's GitHub stats" height="150px" src="https://github-readme-stats-septum128-ze7p3n6d.vercel.app/api?username=septum128&theme=cobalt" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-septum128-ze7p3n6d.vercel.app/api/top-langs/?username=septum128&layout=compact&theme=cobalt" />
+</div>
 
 ## 📩 Contact
 
