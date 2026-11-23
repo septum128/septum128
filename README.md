@@ -9,7 +9,7 @@ Hi, I'm SAP ERP ABAP consultant and developer. 🤝
   <img src="https://img.shields.io/badge/age-35-green" />
   <img src="https://img.shields.io/badge/language-Japanese-brightgreen" />
   <img src="https://img.shields.io/badge/favorite-TypeScript-blue" />
-  <img src="https://img.shields.io/badge/Study-Deno-yellowgreen" />
+  <img src="https://img.shields.io/badge/Study-Rust-red" />
   <img src="https://img.shields.io/badge/Work-SAP__SD-orange" />
   <img src="https://img.shields.io/badge/used%20work-ABAP-B6CADE" />
   <a href="https://septum.dev/" target="_blank">
